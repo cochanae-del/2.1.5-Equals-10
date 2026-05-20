@@ -1,0 +1,3 @@
+Given a number, `num`, print `true` to the console if `num` is 10, otherwise print `false`.
+
+**Note:** If you're curious why we included the word Number around the prompt, take a look at the following details of how prompt works ([https://www.w3schools.com/jsref/met_win_prompt.asp), specifically which type of data it's capturing and storing in the variable.](https://www.w3schools.com/jsref/met_win_prompt.asp)
